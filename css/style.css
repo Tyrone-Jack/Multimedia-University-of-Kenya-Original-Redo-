@@ -32,6 +32,8 @@ body {
     line-height: 1.80857;
     font-weight: normal;
     overflow-x: hidden;
+    height: 100dvh;
+    width: 100%;
 }
 
 a {
